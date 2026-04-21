@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות סטארדיו ואלי אונליין שתמלא את חייך בקסם הכפרי! פריטי סטארדיו ואלי לקנייה במקום אחד, עם אסתטיקת פיקסל ארט ייחודית שכל שחקן חייב לראות. קנה עכשיו!
+
+### תכונות
+https://example.com/features
+גלה את מגוון התכונות הייחודיות של חנות buy a brainrot — מוצרים בהשראת סטארדיו ואלי, עיצוב פיקסל ארט מרהיב וחווית קנייה שתגרום לך לחזור שוב ושוב. חקור עכשיו!
+
+### אודות
+https://example.com/about
+אנחנו שחקנים שאוהבים את סטארדיו ואלי בדיוק כמוך! הכירו את הצוות שמאחורי buy a brainrot, את החזון שלנו ואת הדרך שבה הפכנו אהבה למשחק לחנות אונליין מיוחדת. קרא עוד!
+
+### צור קשר
+https://example.com/contact
+יש שאלה על פריטי סטארדיו ואלי לקנייה? רוצה לדעת יותר על buy a brainrot? צרו איתנו קשר עכשיו ונחזור אליכם במהירות עם כל התשובות שאתם צריכים. אנחנו אוהבים לשמוע מכם!
+
+### Products
+https://example.com/products
+המוצרים שלנו - Buy a Brainrot
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Buy a Brainrot
+
+### Category
+https://example.com/category/:slug
+מוצרים - Buy a Brainrot
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
